@@ -1,0 +1,30 @@
+.navbar {
+    height: 6vw !important;
+    width: 100vw;
+    background-color: #0b0a1b;
+}
+
+.nav-btn:hover {
+    background-color: #9e1b32;
+    cursor: pointer;
+}
+
+.nav-option {
+    color: white;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+.nav-option:hover {
+    color: #9e1b32;
+    cursor: pointer;
+    /* font-size: 19px; */
+}
+
+#nav-icon {
+    color: #9932cc;
+}
+
+#nav-icon:hover {
+    color: #ee82ee;
+}
